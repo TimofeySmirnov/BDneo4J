@@ -1,0 +1,37 @@
+﻿Id;NameOrganization;Address;Phone;Email;Login;Password
+2;"ООО ""АльфаТех""";г. Москва ;+7 (999) 111-22-33;AlphaTeh@mail.ru;at_admin;AlphaTech123
+5;"ЗАО ""БетаСофт""";г. Казань;+7 (888) 222-33-44;Betaaaa@gmail.com;bs_manager;BetaSoft456
+6;"ИП ""ГаммаЛинк""";г. Москва;+7 (777) 333-44-55;G_link@gmail.com;gl_owner;GammaLink789
+8;"ООО ""ДельтаСервис""";г. Санкт-Петербург;+7 (666) 444-55-66;Delta@mail.ru;ds_supervisor;DeltaServiceABC
+9;"ЗАО ""ЭпсилонПро""";г. Казань;+7 (555) 555-66-77  ;Epsilll@mail.ru;ep_director;EpsilonProXYZ
+10;"ООО ""Зетакорп"":";г. Москва;+7 (444) 666-77-88;Z_corp@gmail.com;zc_ceo;ZetaCorpAdmin
+11;"ООО ""ТетаЛабс""";г. Санкт-Петербург;+7 (013) 451-42-43;tettalabs@mail.ru;tl_labmanager;ThetaLabs123
+12;"ООО ""КаппаСолюшнс""";г. Калининград;+7 (040) 343-14-15;Kappa_solut@gmail.com;ks_solutionmanager;KappaSolutions789
+13;"АО ""ЛямбдаГрупп""";г. Москва;+7 (100) 009-20-21;L_group@rambler.ru;lg_groupadmin;LambdaGroupABC
+15;"ООО ""КсиКоммьюникейшнс""";г. Санкт_Петербург;+7 (050) 454-15-16;Ccommunicate@mail.ru;xk_communicationmanager;XiCommunications456
+19;"ООО ""ТехноЛидер""";Москва, ул. Технологическая, д. 1;1234567890;contact@technoleader.com;techlogin1;password1
+20;"ООО ""ГлобалСтрой""";Санкт-Петербург, ул. Строителей, д. 2;1234567891;contact@globalstroy.com;techlogin2;password2
+21;"ООО ""ЛогистикПро""";Новосибирск, ул. Транспортная, д. 3;1234567892;contact@logisticpro.com;techlogin3;password3
+22;"ООО ""Юридический Партнёр""";Екатеринбург, ул. Правовая, д. 4;1234567893;contact@jurpartner.com;techlogin4;password4
+23;"ООО ""СтройМаг""";Казань, ул. Строителей, д. 5;1234567894;contact@stroymag.com;techlogin5;password5
+24;"ООО ""Мобайл Технологии""";Нижний Новгород, ул. Мобильная, д. 6;1234567895;contact@mobiletech.com;techlogin6;password6
+25;"ООО ""АвтоСервис""";Самара, ул. Автомобилистов, д. 7;1234567896;contact@autoservice.com;techlogin7;password7
+26;"ООО ""ЭлектроТехника""";Краснодар, ул. Электрическая, д. 8;1234567897;contact@elektrotech.com;techlogin8;password8
+27;"ООО ""Мероприятия и События""";Челябинск, ул. Событийная, д. 9;1234567898;contact@events.com;techlogin9;password9
+28;"ООО ""ГрадСтрой""";Воронеж, ул. Строителей, д. 10;1234567899;contact@gradstroy.com;techlogin10;password10
+29;"ООО ""СигурТех""";Ростов-на-Дону, ул. Безопасности, д. 11;1234567800;contact@sigurtech.com;techlogin11;password11
+30;"ООО ""Продукты Премиум""";Уфа, ул. Продовольственная, д. 12;1234567801;contact@premiumproducts.com;techlogin12;password12
+31;"ООО ""ТехноСервис""";Томск, ул. Электронная, д. 13;1234567802;contact@techservice.com;techlogin13;password13
+32;"ООО ""Туризм и Путешествия""";Рязань, ул. Туристическая, д. 14;1234567803;contact@tourismtravel.com;techlogin14;password14
+33;"ООО ""РемонтТех""";Тула, ул. Ремонтная, д. 15;1234567804;contact@remonttech.com;techlogin15;password15
+34;"ООО ""Дигиталь Системс""";Красноярск, ул. Информационная, д. 16;1234567805;contact@digitalsystems.com;techlogin16;password16
+35;"ООО ""Солнечные Энергии""";Иркутск, ул. Энергетическая, д. 17;1234567806;contact@solarenergy.com;techlogin17;password17
+36;"ООО ""МедикПро""";Чита, ул. Медицинская, д. 18;1234567807;contact@medicpro.com;techlogin18;password18
+37;"ООО ""Рекламный Мир""";Астрахань, ул. Рекламная, д. 19;1234567808;contact@adworld.com;techlogin19;password19
+38;"ООО ""Умный Дом""";Владивосток, ул. Умная, д. 20;1234567809;contact@smart-home.com;techlogin20;password20
+39;"ООО ""Зеленая Планета""";Хабаровск, ул. Экологическая, д. 21;1234567810;contact@greenplanet.com;techlogin21;password21
+40;"ООО ""Модный Образ""";Пермь, ул. Модная, д. 22;1234567811;contact@fashionstyle.com;techlogin22;password22
+41;"ООО ""ЭкоБизнес""";Мурманск, ул. Эко, д. 23;1234567812;contact@ecobusiness.com;techlogin23;password23
+42;"ООО ""ФинансГрупп""";Калуга, ул. Финансовая, д. 24;1234567813;contact@financegroup.com;techlogin24;password24
+43;"ООО ""КосмоТех""";Сочи, ул. Космическая, д. 25;1234567814;contact@cosmotech.com;techlogin25;password25
+44;"ООО ""СветТех""";Омск, ул. Светлая, д. 26;1234567815;contact@lighttech.com;techlogin26;password26

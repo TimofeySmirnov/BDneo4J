@@ -1,0 +1,35 @@
+﻿Id;LastName;FirstName;MiddleName;Phone;Email;SerialPassport;NumberPassport;Login;Password
+1;Иванов;Артем;Михайлович;+7 (999) 121-22-33;Artem228@mail.ru;5020;777777;FirstUser;FU123
+2;1;1;1;1;1;1;1;Admin;Admin
+7;Смородин;Игорь;Александрович;+ 7 (900) 228-88-88;Igor_vishnya_20@mail.ru;4720;234896;IgorSmorodin;pipInstallPassword
+8;Иванов;Иван;Иванович;1234567890;ivan.ivanov@email.com;1234;123456;login1;password1
+9;Петрова;Мария;Сергеевна;1234567891;maria.petrov@email.com;2345;234567;login2;password2
+10;Сидоров;Алексей;Анатольевич;1234567892;alexey.sidorov@email.com;3456;345678;login3;password3
+11;Кузнецова;Елена;Владимировна;1234567893;elena.kuznetsova@email.com;4567;456789;login4;password4
+12;Морозов;Дмитрий;Александрович;1234567894;dmitriy.morozov@email.com;5678;567890;login5;password5
+13;Николаева;Светлана;Юрьевна;1234567895;svetlana.nikolaeva@email.com;6789;678901;login6;password6
+14;Федоров;Петр;Иванович;1234567896;peter.fedorov@email.com;7890;789012;login7;password7
+15;Лебедева;Татьяна;Анатольевна;1234567897;tatyana.lebedeva@email.com;8901;890123;login8;password8
+16;Васильев;Максим;Петрович;1234567898;maksim.vasiliev@email.com;9012;901234;login9;password9
+17;Гордеева;Ольга;Сергеевна;1234567899;olga.gordeva@email.com;123;12345;login10;password10
+18;Тимофеев;Владимир;Юрьевич;1234567800;vladimir.timofeev@email.com;1234;123457;login11;password11
+19;Романова;Анна;Петровна;1234567801;anna.romanova@email.com;2345;234568;login12;password12
+20;Ковалев;Сергей;Викторович;1234567802;sergey.kovalev@email.com;3456;345679;login13;password13
+21;Попова;Наталья;Александровна;1234567803;natalya.popova@email.com;4567;456780;login14;password14
+22;Ефимов;Роман;Николаевич;1234567804;roman.efimov@email.com;5678;567891;login15;password15
+23;Соколова;Ирина;Вячеславовна;1234567805;irina.sokolova@email.com;6789;678902;login16;password16
+24;Климов;Андрей;Филиппович;1234567806;andrey.klimov@email.com;7890;789013;login17;password17
+25;Смирнова;Виктория;Геннадьевна;1234567807;victoria.smirnova@email.com;8901;890124;login18;password18
+26;Павлов;Евгений;Сергеевич;1234567808;evgeniy.pavlov@email.com;9012;901235;login19;password19
+27;Маркова;Екатерина;Александровна;1234567809;ekaterina.markova@email.com;123;12346;login20;password20
+28;Шевченко;Игорь;Геннадиевич;1234567810;igor.shevchenko@email.com;1234;123457;login21;password21
+29;Фролова;Оксана;Федоровна;1234567811;oksana.frolova@email.com;2345;234568;login22;password22
+30;Захаров;Кирилл;Михайлович;1234567812;kirill.zakharov@email.com;3456;345679;login23;password23
+31;Лукина;Алина;Владимировна;1234567813;alina.lukina@email.com;4567;456780;login24;password24
+32;Воронов;Михаил;Павлович;1234567814;mikhail.voronov@email.com;5678;567891;login25;password25
+33;Нестерова;Юлия;Дмитриевна;1234567815;yulia.nesterova@email.com;6789;678902;login26;password26
+34;Прокофьев;Роман;Ильич;1234567816;roman.prokofiev@email.com;7890;789013;login27;password27
+35;Голубев;Тимур;Аркадьевич;1234567817;timur.golubev@email.com;8901;890124;login28;password28
+36;Жукова;Мариanna;Анатольевна;1234567818;marianna.zhukova@email.com;9012;901235;login29;password29
+37;Козлов;Максим;Петрович;1234567819;maksim.kozlov@email.com;123;12346;login30;password30
+39;Magnes;Max;NULL;99999999999;example@example.com;1111;777777;new_user;password123
